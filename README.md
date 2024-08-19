@@ -8,6 +8,6 @@ This is project 1 / 10
 - Flex Box
 - Css Grid
 
-## What I am learning now...
+## I’m currently learning...
 - Javascript 
 - Bootstrap
