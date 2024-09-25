@@ -97,3 +97,15 @@ li{
      border-bottom: 2px solid rgb(161, 161, 161)  ;
 }
 
+.first{
+     display:flex;
+}
+.image{
+     background-color: rgb(210, 209, 209);
+     width: 22rem;
+     height:25rem;
+     margin: 7rem 10rem;
+     /* margin-left:10rem;
+     margin-top: 7rem; */
+     border-radius: 0 50% 40% 50%;
+}
