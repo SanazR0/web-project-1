@@ -1,0 +1,99 @@
+*{
+     margin: 0;
+     box-sizing: border-box;
+}
+body{
+     background: rgb(36,10,0);
+     background: linear-gradient(90deg, rgba(36,10,0,1) 0%, rgba(9,12,74,1) 100%, rgba(0,212,255,1) 100%);
+     height: 100vh;
+     font-family: serif;
+}
+li{
+     list-style: none;
+}
+
+.up-header{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     width: 80%;
+     margin: 0 auto;
+     padding-top: 1.2rem;
+}
+.icon1 a{
+     color: white;
+     text-decoration: none;
+     font-size: 2rem;
+}
+
+.nav ul{
+     display: flex;
+     flex-direction: row;
+
+}
+.nav ul li a{
+     text-decoration: none;
+     color: white;
+     padding: 0 1.5rem;
+     font-size: 1.3rem;     
+     padding: 10px 7px;
+}
+.nav ul li{
+     padding: 10px 7px;
+     cursor: pointer;
+}
+.nav ul li:hover{
+     background-color: white;
+     border-radius: 10px;
+     color: rgba(9,12,74,1);
+}
+.nav ul li a:hover{
+     color: rgba(9,12,74,1);
+}
+.nav li:last-child{
+     border: 1px solid white;
+}
+
+.main-header{
+     color: white;
+     padding-top: 8rem;
+     text-align: center;
+}
+
+/* -------------------- main header -------------------- */
+.main-header h1{
+     font-size: 3rem;
+     padding: 2rem;
+}
+.main-header p{
+     font-size: 1.2rem;
+     color: rgb(161, 161, 161);
+}
+.main-header img{
+     padding-top: 4rem;
+     padding-bottom: 0.5rem;
+}
+
+/* --------------------- black header -------------------- */
+.black-header{
+     background-color: black;
+}
+.black-header ul{
+     margin: 0 auto;
+     width: 90%;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-evenly;
+     padding: 1.7rem;
+}
+.black-header ul li a{
+     color: rgb(161, 161, 161);
+     text-decoration: none;
+     font-size: 1.7rem;
+     padding: 0.5rem;
+     font-family: "Times New Roman", Times, serif;
+}
+.black-header ul li a:hover{
+     border-bottom: 2px solid rgb(161, 161, 161)  ;
+}
+
