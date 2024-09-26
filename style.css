@@ -103,9 +103,31 @@ li{
 .image{
      background-color: rgb(210, 209, 209);
      width: 22rem;
-     height:25rem;
+     height:28rem;
      margin: 7rem 10rem;
      /* margin-left:10rem;
      margin-top: 7rem; */
      border-radius: 0 50% 40% 50%;
+}
+.image img{
+     padding-top: 2.5rem;
+}
+
+.firstMain{
+     width: 50rem;
+     padding-top: 10rem;
+}
+.firstMain h1{
+     color:white;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: 3.5rem;
+     padding-left: 2rem;
+}
+.firstMain p{
+     color: rgb(161, 161, 161);
+     font-size: 1.5rem;
+     width: 90%;
+     padding-left: 2.5rem;
+     padding-top: 2rem;
+     text-align: justify;
 }
