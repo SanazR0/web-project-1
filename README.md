@@ -7,8 +7,8 @@ The image is an example of what I plan to design
 - HTML5
 - CSS3
 - Flex Box
-- Css Grid
 
 ## I’m currently learning...
 - Javascript 
 - Bootstrap
+- css Grid
