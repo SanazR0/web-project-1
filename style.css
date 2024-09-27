@@ -230,3 +230,28 @@ li{
      background-color: white;
      color:black;
 }
+.down-footer{
+     color:rgb(161, 161, 161);
+     width: 80%;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     margin: 0 auto;
+     padding-bottom: 4rem;
+}
+.down-footer ul{
+     display: flex;
+     flex-direction: row;
+}
+.down-footer ul li{
+     margin-right: 5rem;
+     color: white;
+     background-color: rgb(129, 127, 127);
+     padding: 1rem;
+     border-radius: 50%;
+     width: 3rem;
+     text-align: center;
+}
+.down-footer p{
+     font-size: 1.5rem;
+}
