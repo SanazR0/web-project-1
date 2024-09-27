@@ -12,3 +12,5 @@ The image is an example of what I plan to design
 - Javascript 
 - Bootstrap
 - css Grid
+## a preview picture
+<img src="images/preview.png">
