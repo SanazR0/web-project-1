@@ -1,0 +1,85 @@
+/* -----------------header------------------ */
+
+.up-header{
+     display: flex;
+     flex-direction: column;
+}
+.icon1{
+     margin: 0 auto;
+}
+.nav ul{
+     display: flex;
+     flex-direction: column;
+     padding: 0;
+}
+.nav ul li{
+     width: 10rem;
+     text-align: center;
+     margin: 0 auto;
+}
+.main-header{
+     padding-top: 5rem;
+}
+.black-header ul{
+     display: flex;
+     flex-direction: column;
+}
+.black-header ul li{
+     text-align: center;
+     margin: 0 auto;
+     border-bottom: solid 1px rgb(161, 161, 161);
+}
+.black-header ul li a:hover{
+     border-bottom:none;
+}
+
+/* -----------------first part------------------ */
+
+.image{
+     display: none;
+}
+.first{
+     margin: 0 auto;
+     width: 100%;
+}
+.firstMain{
+     width: 100%;
+     padding-top: 4rem;
+}
+.firstMain h1{
+     font-size: 2rem;
+}
+/* -----------------second part------------------ */
+
+.second{
+     display: flex;
+     flex-direction: column;
+     margin: 0 auto;
+}
+.secondText h1{
+     font-size: 2rem;
+     padding-top: 2rem;
+}
+.item{
+     width: 80%;
+     overflow: auto;
+     margin: 0 auto;
+     margin-bottom: 1rem;
+}
+.number{
+     margin: 0 auto;
+}
+/* -----------------footer------------------ */
+
+.up-footer h2{
+     font-size: 2rem;
+}
+.down-footer{
+     padding-bottom: 1rem;
+}
+.down-footer ul{
+     display: none;
+}
+.down-footer p{
+     margin: 0 auto;
+}

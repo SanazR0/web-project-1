@@ -124,8 +124,9 @@ li{
      background-color: rgb(161, 161, 161);
 }
 .firstMain{
-     width: 50rem;
+     width: 60%;
      padding-top: 10rem;
+     padding-bottom: 3rem;
 }
 .firstMain h1, .secondText h1{
      color:white;
@@ -147,15 +148,15 @@ li{
      display: flex;
      flex-direction:row;
      margin: 7rem 10rem;
-     margin-bottom: 4rem !important;
+     margin-bottom: 3rem !important;
 }
 .secondText{
      /* padding-left: 10rem; */
-     padding-bottom: 5rem;
+     padding-bottom: 4rem;
      width: auto;
 }
 .number{
-     margin-top: 4rem;
+     /* margin-top: 3rem; */
      margin-left: 4rem;
      font-size: 3rem !important;
 }
@@ -163,6 +164,7 @@ li{
 .menu{
      display: flex;
      flex-direction: column;
+     width: 40%0;
 }
 .item{
      display: flex;
@@ -173,7 +175,7 @@ li{
      border-radius: 10px;
      overflow: hidden;
      padding: 1rem;
-     width: 35rem;
+     width: 30rem;
 }
 .item:hover{
      background-color: white;
